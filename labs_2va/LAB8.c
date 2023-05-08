@@ -1,14 +1,15 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 /*
-@aluno: JOAO GUILHERME BENJAMIN ALVES DE REZENDE
+Aluno: Joao Guilherme Benjamin
 fazer array V
 printar array V
 definir maior e menor elemento e seus indices V
 ordenacao sort de insercao em ordem decrescente colocando o menor elemento no ultimo indice V
 eliminar elemento de posicao especifica e depois reordernar deixando o 0 na ultima posicao V
 */
+
+#include <stdio.h>
+#include <stdlib.h>
+
 
 int maiorElemento(int vetor[], int tam)
 {

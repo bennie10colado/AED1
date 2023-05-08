@@ -1,5 +1,5 @@
 //Aluno: Joao Guilherme Benjamin
-//por algum motivo, os outros labs da 1VA foram corrompidos e nao consegui os recuperar da plataforma o qual foram entregues, somente este.
+//por algum motivo, os outros labs da 1VA foram corrompidos e nao consegui os recuperar da plataforma o qual foram entregues, somente este até o atual momento.
 
 #include <stdio.h>
 #include <stdlib.h>

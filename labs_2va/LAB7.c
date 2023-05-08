@@ -1,3 +1,5 @@
+//Aluno: Joao Guilherme Benjamin
+
 #include <stdio.h>
 #include <stdbool.h>
 
